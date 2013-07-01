@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="cn">
+  <head>
+  <meta charset="utf-8">
+  <title>
+    Liveweave
+  </title>
+  
+  <!-- Place cursor after this and select a
+JavaScript library from the menu above -->
+  <!-- Supports context-sensitive CSS3 auto-completion -->
+  <!-- Style starts here. Try adding new CSS tags. -->
+  <style type="text/css">    
+    body {
+      padding: 1em;
+    }
+    
+    header {
+    margin-bottom: 35px;}
+    
+    header h1 {
+      font-size: 50px;
+      font-family: Helvetica, Arial, sans-serif;
+      text-decoration: none;
+      color: #111;
+      font-weight: normal;
+      margin-bottom: -12px;
+    }
+    
+    header p {
+      font-family:Georgia, Times, "Times New Roman", serif;
+      font-style: italic;
+      font-size: 14px;
+      color: #ccc;
+    }
+    
+  
+    
+    header h2 {
+    color: #333;
+    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 1.5em;}
+  </style>
+  <!-- Style ends here -->
+  
+  </head>
+  
+  
+  <body>
+	<!-- Supports context-sensitive HTML5 auto-completion -->
+  <!-- HTML starts here. Try adding new HTML tags. -->
+  <div class="main"></div>
+  	<div class="header">
+      <header>
+    <h1>Mockee Nodes</h1>
+    <p class="quote">"Happiness only real when shared."</p></header>
+  </div>
+  <div class="article">
+    <header>
+      <h2>文章标题</h2>
+    </header>
+  </div>
+  
+  <div class="side"></div>
+  
+	
+</body>
+
+</html>
